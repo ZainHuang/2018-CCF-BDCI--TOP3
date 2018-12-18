@@ -1,6 +1,6 @@
 # 2018-CCF-BDCI-基金相关性预测TOP3
-赛题：2018 CCF大数据与计算智能大赛（BDCI 2018 )——基金相关性预测（目前仍有训练赛可供练习。<br>
-训练赛地址：https://www.datafountain.cn/competitions/328/details）<br>
+赛题：2018 CCF大数据与计算智能大赛（BDCI 2018 )——基金相关性预测（目前仍有训练赛可供练习）。<br>
+训练赛地址：https://www.datafountain.cn/competitions/328/details<br>
 数据集下载地址：https://www.datafountain.cn/competitions/328/details<br>
 ## 数据探索
 赛题给予2015-09-29至2018-03-16共600个交易日的基金的复权净值收益率，业绩比较基准的收益率，重要市场指数收益率、以及基金间的相关性等4组数据。其中基金间的相关性是本次研究的目标。 <br>
